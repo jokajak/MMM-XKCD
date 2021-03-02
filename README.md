@@ -1,8 +1,8 @@
-# DailyXKCD
+# MMM-XKCD
 A module for MagicMirror<sup>2</sup> that displays the daily XKCD web comic.
 
 ## Screenshot
-![Example of DailyXKCD](screenshot.png?raw=true "Example screenshot")
+![Example of MMM-XKCD](screenshot.png?raw=true "Example screenshot")
 
 ## Dependencies
   * A [MagicMirror<sup>2</sup>](https://github.com/MichMich/MagicMirror) installation
@@ -14,7 +14,7 @@ A module for MagicMirror<sup>2</sup> that displays the daily XKCD web comic.
  **Example:**
 ```
  {
-    module: 'DailyXKCD',
+    module: 'MMM-XKCD',
 	position: 'top_left',
 	config: {
 		invertColors: true,
