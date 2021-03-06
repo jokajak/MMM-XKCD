@@ -1,4 +1,4 @@
-Module.register("DailyXKCD", {
+Module.register("MMM-XKCD", {
 
     // Default module config.
     defaults: {
